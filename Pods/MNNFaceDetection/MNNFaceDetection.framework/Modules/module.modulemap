@@ -1,0 +1,6 @@
+framework module MNNFaceDetection {
+  umbrella header "MNNFaceDetection.h"
+
+  export *
+  module * { export * }
+}

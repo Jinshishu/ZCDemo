@@ -1,0 +1,6 @@
+framework module MNNKitCore {
+  umbrella header "MNNKitCore.h"
+
+  export *
+  module * { export * }
+}

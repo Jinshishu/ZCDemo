@@ -1,0 +1,6 @@
+framework module MNNHandGestureDetection {
+  umbrella header "MNNHandGestureDetection.h"
+
+  export *
+  module * { export * }
+}
